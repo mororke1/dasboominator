@@ -20,15 +20,15 @@ With 4 drivers and 4 tweeters, price was a major factor. At around $34, the Dayt
 Cabinet and filter design were performed in WinISD. Variable Q was achieved through the use of multiple Linkwitz transforms to boost low-end response. 
 
 <figure>
-<img src="images/freq_response_no_transform.jpg" alt="No transform" /><figcaption aria-hidden="true">No Linkwitz Transform</figcaption>
+<img src="images/freq_response_no_transform.png" alt="No transform" /><figcaption aria-hidden="true">No Linkwitz Transform</figcaption>
 </figure>
 
 <figure>
-<img src="images/freq_response_mid_transform.jpg" alt="Mid transform" /><figcaption aria-hidden="true">With Linkwitz Transform 1</figcaption>
+<img src="images/freq_response_mid_transform.png" alt="Mid transform" /><figcaption aria-hidden="true">With Linkwitz Transform 1</figcaption>
 </figure>
 
 <figure>
-<img src="images/freq_response_high_transform.jpg" alt="High transform" /><figcaption aria-hidden="true">With Linkwitz Transform 2</figcaption>
+<img src="images/freq_response_high_transform.png" alt="High transform" /><figcaption aria-hidden="true">With Linkwitz Transform 2</figcaption>
 </figure>
 
 WinISD gave me a target volume to achieve for the enclosure design. All modelling was done in Solidworks to design an enclosure to hit the target volume with measurements I could easily hit on a table saw.
