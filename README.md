@@ -5,6 +5,7 @@ A portable speaker build (Boombox)
 <img src="images/front.jpg" alt="Front" /><figcaption aria-hidden="true">Front</figcaption>
 </figure>
 
+<figure>
 <img src="images/back.jpg" alt="Back" /><figcaption aria-hidden="true">Back</figcaption>
 </figure>
 
